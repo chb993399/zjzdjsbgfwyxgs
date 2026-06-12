@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>浙江众达检测技术服务有限公司</title>
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box;}
+        body{background:#fff;padding:15px;}
+        .box{max-width:375px;margin:0 auto;}
+        .box img{width:100%;margin:10px 0;border-radius:6px;}
+    </style>
+</head>
+<body>
+    <div class="box">
+        <img src="1.jpg">
+        <img src="2.jpg">
+        <img src="3.jpg">
+    </div>
+</body>
+</html>
